@@ -71,3 +71,6 @@ ___
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
 ### Решение 4
+
+
+![img](https://github.com/znak72/zabbix2/blob/main/SCR-20231017-luym.png)

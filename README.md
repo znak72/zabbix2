@@ -10,6 +10,10 @@
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
  ### Решение 1
+
+ ![img](https://github.com/znak72/zabbix2/blob/main/SCR-20231017-lmhu.png)
+
+ ![img](https://github.com/znak72/zabbix2/blob/main/SCR-20231017-lmwu.png)
 ___
  
 ### Задание 2

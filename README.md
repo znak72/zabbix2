@@ -13,7 +13,7 @@
 
  ![img](https://github.com/znak72/zabbix2/blob/main/SCR-20231017-lmhu.png)
 
- ![img](https://github.com/znak72/zabbix2/blob/main/SCR-20231017-lmwu.png)
+
 
  
 ___
@@ -32,6 +32,12 @@ ___
  Результат данного задания сдавайте вместе с заданием 3
 
  ### Решение 2
+ 
+  ![img](https://github.com/znak72/zabbix2/blob/main/SCR-20231017-lmsx.png)
+
+  ![img](https://github.com/znak72/zabbix2/blob/main/SCR-20231017-lmwu.png)
+
+  
 ___
  
 ### Задание 3

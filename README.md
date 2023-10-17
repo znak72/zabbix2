@@ -14,6 +14,8 @@
  ![img](https://github.com/znak72/zabbix2/blob/main/SCR-20231017-lmhu.png)
 
  ![img](https://github.com/znak72/zabbix2/blob/main/SCR-20231017-lmwu.png)
+
+ 
 ___
  
 ### Задание 2
